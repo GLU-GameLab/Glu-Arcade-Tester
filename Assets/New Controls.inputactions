@@ -1,0 +1,154 @@
+{
+    "name": "New Controls",
+    "maps": [
+        {
+            "name": "default",
+            "id": "621e7451-6ae1-459f-bf30-1033f88624f7",
+            "actions": [
+                {
+                    "name": "Button 1",
+                    "type": "Button",
+                    "id": "f8f4e7f0-3912-4306-b5f5-36329225b038",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Button 2",
+                    "type": "Button",
+                    "id": "4d6d7824-dae6-4ca3-ad39-c4630f370542",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Button 3",
+                    "type": "Button",
+                    "id": "82d463ee-5693-4bd7-b8f2-0718df4fa695",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Button 4",
+                    "type": "Button",
+                    "id": "28ba12b6-e6ed-49ce-92fb-c94f617df639",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Button 5",
+                    "type": "Button",
+                    "id": "1bf6da36-4647-45be-9311-70033d3f49c0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Button 6",
+                    "type": "Button",
+                    "id": "9a25a608-2862-4441-a0f7-788eca7b5c87",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "9b072c8e-0220-4415-91af-246e2801a7ed",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9686c611-239c-4984-977d-b5e794d2c642",
+                    "path": "<HID::16C0-5E1>/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Button 1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "027c9c8a-1e02-44f0-a05a-76d0741c9b16",
+                    "path": "<HID::16C0-5E1>/button2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Button 2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "594947b4-7db7-4aef-9a83-352be1f70ba4",
+                    "path": "<HID::16C0-5E1>/button3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Button 3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7436a1e8-b08d-4f85-b7e4-45c976f9b082",
+                    "path": "<HID::16C0-5E1>/button4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Button 4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8b1a640e-63e8-4855-8cca-6bbf0509d097",
+                    "path": "<HID::16C0-5E1>/button5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Button 5",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3da2bdc1-e3f1-46f4-b6f0-57910a1c88f0",
+                    "path": "<HID::16C0-5E1>/button6",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Button 6",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d986c472-3507-4b6c-95b0-9ad0766dc5ce",
+                    "path": "<Joystick>/stick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
