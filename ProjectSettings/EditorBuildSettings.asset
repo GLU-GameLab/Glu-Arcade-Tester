@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+<<<<<<< Updated upstream
     path: Assets/Scenes/MainScene.unity
+=======
+    path: Assets/Scenes/SampleScene.unity
+>>>>>>> Stashed changes
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}

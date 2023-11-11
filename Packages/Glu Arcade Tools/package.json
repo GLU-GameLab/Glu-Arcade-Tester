@@ -1,0 +1,16 @@
+{
+"name": "com.glu.arcade-tools",
+"version": "1.0.0",
+"displayName": "Glu arcade Tools",
+"description": "MyBox is a set of attributes, tools and extensions for Unity",
+
+"unity": "2018.3",
+"dependencies": {
+},
+"documentationUrl": "https://github.com/Deadcows/MyBox/wiki",
+
+"keywords": ["attributes", "Arcade", "editor tools"],
+"author": { "name" : "Justin van Diggelen",
+   "email" : "210003@student.glu.nl"
+   }
+}
